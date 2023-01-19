@@ -272,7 +272,7 @@ These parameters need to be passed via the post body as `JSON`.
 
 | Body Parameter | Example | Description                                                |
 | :------------- | :------ | :--------------------------------------------------------- |
-| temp           | 40      | The COP temperature in Celcius (name is subject to change) |
+| cop_temp       | 40      | The COP temperature in Celcius (name is subject to change) |
 
 ### Example
 
